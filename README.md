@@ -83,7 +83,7 @@ source '/etc/os-release' ; [[ "${ID}" == "centos" ]] && yum install git -y || (a
 #### 克隆代码
 
 ```bash
-git clone https://github.com/Paper-Dragon/muti_xray.git
+git clone https://github.com/songjinlong1999/songgongzi_xray.git
 ```
 
 #### 进入操做系统准备阶段
